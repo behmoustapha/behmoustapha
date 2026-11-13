@@ -1,4 +1,6 @@
-<img src="vscode.gif" width="50%" alt="Test">
+<div align="center">
+  <img src="vscode.gif" width="50%" alt="Test">
+</div>
 <!--
 **behmoustapha/behmoustapha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
